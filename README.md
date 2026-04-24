@@ -1,4 +1,4 @@
-# Random Number Generation – PECS Lab
+# Random Number Generation – PECS Lab Group 2
 
 This project is done as part of **Performance Evaluation of Computer Systems (PECS)** course.
 
